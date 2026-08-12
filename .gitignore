@@ -7,3 +7,7 @@ node_modules
 test-ledger
 dist
 .idea
+
+/.direnv
+/.pre-commit-config.yaml
+/result
