@@ -11053,7 +11053,7 @@ dependencies = [
 
 [[package]]
 name = "spl-token-cli"
-version = "5.6.1"
+version = "5.6.2-dev.20260822"
 dependencies = [
  "assert_cmd",
  "base64 0.23.1",
