@@ -1,6 +1,6 @@
 [package]
 name = "spl-token-cli"
-version = "5.6.1"
+version = "5.6.2-dev-no-recover-nested.20260903T170359Z"
 description = "SPL-Token Command-line Utility"
 documentation = "https://docs.rs/spl-token-cli"
 readme = "README.md"
